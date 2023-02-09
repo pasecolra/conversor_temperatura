@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="2IrINiTPMQv8RAd45Xzo" name="Página-1">
+        <mxGraphModel dx="934" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="inicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="C" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="F=&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ºC x 1.8 + 32&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;br&gt;K=&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;ºC + 273.15&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="280" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="F,K" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="390" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="FIN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
